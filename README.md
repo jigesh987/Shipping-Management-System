@@ -12,6 +12,4 @@ A web-based system to manage shipping container availability and bookings.
 - MySQL
 - HTML/CSS
 
-## How to Run the Project
-1. Clone the repository
-2. Import the project.sql file into your database.
+
